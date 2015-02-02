@@ -1,0 +1,17 @@
+require('./core/core');
+require('./core/touch');
+require('./core/utility');
+require('./core/smooth-scroll');
+require('./core/scrollspy');
+require('./core/toggle');
+require('./core/alert');
+require('./core/button');
+require('./core/dropdown');
+require('./core/grid');
+require('./core/modal');
+require('./core/nav');
+require('./core/offcanvas');
+require('./core/switcher');
+require('./core/tab');
+require('./core/tooltip');
+module.exprots = window.UIkit;

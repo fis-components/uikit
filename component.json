@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/uikit/bower-uikit.git",
+    "version": "2.16.2",
+    "name": "uikit",
+    "main": "uikit.js",
+    "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces.",
+    "dependencies": [
+        "jquery@>=1.9"
+    ]
+}
