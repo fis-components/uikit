@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('../uikit');
 /*! UIkit 2.16.2 | http://www.getuikit.com | (c) 2014 YOOtheme | MIT License */
 /*

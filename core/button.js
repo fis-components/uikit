@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('./core');
 require('./touch');
 require('./utility');
