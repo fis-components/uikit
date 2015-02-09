@@ -19,11 +19,11 @@ var jQuery = require('jquery');
         });
     };
     module.exports = uikit;;
-    if (!window.jQuery) {
+    if (!jQuery) {
         throw new Error('UIkit requires jQuery');
     }
-    if (window && window.jQuery) {
-        core(window, window.jQuery, window.document);
+    if (window && jQuery) {
+        core(window, jQuery, window.document);
     }
 }(function (global, $, doc) {
     'use strict';
