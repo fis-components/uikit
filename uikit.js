@@ -1,4 +1,4 @@
-require('./core/core');
+module.exprots = require('./core/core');
 require('./core/touch');
 require('./core/utility');
 require('./core/smooth-scroll');
@@ -14,4 +14,3 @@ require('./core/offcanvas');
 require('./core/switcher');
 require('./core/tab');
 require('./core/tooltip');
-module.exprots = window.UIkit;

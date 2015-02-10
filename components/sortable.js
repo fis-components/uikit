@@ -1,5 +1,5 @@
 var jQuery = require('jquery');
-require('../uikit');
+var UIkit = require('../uikit');
 /*! UIkit 2.16.2 | http://www.getuikit.com | (c) 2014 YOOtheme | MIT License */
 /*
   * Based on nativesortable - Copyright (c) Brian Grinstead - https://github.com/bgrins/nativesortable

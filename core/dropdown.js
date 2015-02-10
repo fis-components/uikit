@@ -1,5 +1,5 @@
 var jQuery = require('jquery');
-require('./core');
+var UIkit = require('./core');
 require('./touch');
 require('./utility');
 /*! UIkit 2.16.2 | http://www.getuikit.com | (c) 2014 YOOtheme | MIT License */
